@@ -1,4 +1,4 @@
-# DualBootPatcher-Travis
+# DualBootPatcher-TravisCI
 DualBootPatcher TravisCI build configuration
 
 
