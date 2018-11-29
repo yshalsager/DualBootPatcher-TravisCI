@@ -6,6 +6,6 @@ services:
 before_install:
   - git clone --recursive https://github.com/chenxiaolong/DualBootPatcher DualBootPatcher/
 script:
-  - travis_wait 30
+  - "travis_wait 50 sleep 1800 &"
   - chmod 775 upload
   - ./upload
